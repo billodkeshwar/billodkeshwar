@@ -1,4 +1,3 @@
-[![MasterHead](https://images.app.goo.gl/MHNW8qCsq4VBHXED9)]
 <h1 align="center">Hi 👋, I'm Billod Keshwar</h1>
 <h3 align="center">A CSE student who loves to spend most of the day experimenting with HTML, CSS, JavaScript (and its endless list of frameworks)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
