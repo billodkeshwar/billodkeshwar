@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **MERN, Problem solving**
 
-- 📫 How to reach me **billodjha@gmail.com**
-
 - ⚡ Fun fact **I'm a memer and a coin collector**
 
 <h3 align="left">Connect with me:</h3>
